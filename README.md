@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, My name is Breno Machado.
+
+I'm a coding student on 42 Lisboa, currently learning C and C++ and looking for some opportunity to develop my skills.
+
+while (True) { TryingToMakeAGoodProfile(); }
+$ Segmention fault (core dumped)
+
 
 <!--
 **BrenoMachado123/BrenoMachado123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
